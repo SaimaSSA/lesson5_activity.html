@@ -1,0 +1,50 @@
+body {
+  background: white  
+    
+    img{
+      float: right;
+      width: 250px;
+      height: 200px;
+      margin: 10px;
+      border-color: #ddcca0;
+      border-width: 10px;
+      border-style: solid;
+      border-radius: 10px;
+      
+  }
+}
+p {
+  color: #6d866a;
+  font-family: arial; 
+  font-size: 15px;
+}
+h1 {
+  font-weight:normal;
+  font-family: fantasy;
+  font-size: 30px;
+  color: #94632b}; 
+}
+h2 {
+  color: #a57e58;
+  font-family: fantasy;
+  font-weight: normal;
+  font-size: 25px;
+}
+h3 { 
+  color:#a3774d;
+  font-family: fantasy; 
+  font-weight: normal;
+  font-size: 25 px;
+}
+h4 {
+  color: #a3774d; 
+  font-family: fantasy;
+  font-weight: normal;
+  font-size: 18px;
+}
+li {
+  color: #8b5d5d;
+  font-family: arial; 
+  font-weight:lighter;
+  font-size: 15px;
+}
