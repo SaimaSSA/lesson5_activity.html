@@ -1,5 +1,5 @@
 body {
-  background: white  
+  background: white; }
     
     img{
       float: right;
@@ -9,9 +9,7 @@ body {
       border-color: #ddcca0;
       border-width: 10px;
       border-style: solid;
-      border-radius: 10px;
-      
-  }
+      border-radius: 10px;  
 }
 p {
   color: #6d866a;
@@ -22,10 +20,10 @@ h1 {
   font-weight:normal;
   font-family: fantasy;
   font-size: 30px;
-  color: #94632b}; 
-}
+  color: #94632b;
+} 
 h2 {
-  color: #a57e58;
+  color: #a3774d;
   font-family: fantasy;
   font-weight: normal;
   font-size: 25px;
